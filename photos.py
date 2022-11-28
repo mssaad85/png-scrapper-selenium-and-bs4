@@ -8,6 +8,7 @@ from time import sleep
 from selenium.webdriver.common.by import By
 import time
 
+# add the car name in cars var :
 cars = ["Ferrari", "Bugatti", "Toyota"]
 for car in cars:    
     url = "https://www.pngwing.com/en/search?q=car"
